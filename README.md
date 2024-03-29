@@ -15,9 +15,9 @@ Welcome to the Tkinter Notepad Application! This is a simple text editor built u
 
 ## How to Use
 
-1. Clone the repository or download the `notepad.py` file.
+1. Clone the repository or download the `main.py` file.
 2. Ensure you have Python installed on your system.
-3. Run the `notepad.py` script.
+3. Run the `main.py` script.
 4. The Notepad application window will open, allowing you to create and edit text files.
 5. Use the toolbar and menus to perform various actions.
 6. Enjoy using the Notepad application!
